@@ -5,7 +5,7 @@ Bin Wan, Xiaofei Zhou, Bolun Zheng, Yaoqi Sun, Jiyong Zhang, and Chenggang Yan, 
 ## Usage
 1. Clone this repo
 ```
-https://github.com/Kunye-Shen/ERPNet.git
+https://github.com/zxforchid/DFINet.git
 ```
 2. We also provide the predicted saliency maps ([baidu](https://pan.baidu.com/s/1mygMI-HMkPBCGYQ-NtdNdg) extraction code: crgf.). You can download directly through the above methods, or contact us through the following email.
 ```
