@@ -1,6 +1,7 @@
 # DFINet
-Deeper feature integration network for salient object detection of strip steel surface defects
-Bin Wan, Xiaofei Zhou, Bolun Zheng, Yaoqi Sun, Jiyong Zhang, and Chenggang Yan, Journal of Electronic Imaging, 2022, doi: 10.1117/1.JEI.31.2.023013.
+Bin Wan, Xiaofei Zhou, Bolun Zheng, Yaoqi Sun, Jiyong Zhang, and Chenggang Yan,
+Deeper feature integration network for salient object detection of strip steel surface defects,
+Journal of Electronic Imaging, 2022, doi: 10.1117/1.JEI.31.2.023013.
 
 ## Usage
 1. Clone this repo
